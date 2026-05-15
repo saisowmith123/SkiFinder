@@ -1,13 +1,3 @@
-//
-//
-// Favorites.swift
-// SnowSeeker
-//
-// Created by Solygambas on 27/05/2022
-// Copyright © 2022 Solygambas. All rights reserved.
-//
-        
-
 import SwiftUI
 
 class Favorites: ObservableObject {
